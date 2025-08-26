@@ -1,6 +1,7 @@
 # hugo-mlops-training
 
-example sdff
 
-this and example 
+this is an example 
+
+test
 
